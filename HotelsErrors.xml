@@ -41,7 +41,7 @@
 
   <Hotel Rating="4.2">
     <Name>Hilton Long Beach</Name>
-    <Phone>562-983-3400</Phone>
+    <Phones>562-983-3400</Phones>
     <Address Unit="D">
       <Number>701</Number>
       <Street>W Ocean Blvd</Street>
@@ -49,6 +49,7 @@
       <State>CA</State>
       <Zip>90831</Zip>
       <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
   </Hotel>
 
   <Hotel>
@@ -66,3 +67,4 @@
   </Hotel>
 
 </Hotel>
+
