@@ -39,19 +39,6 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.2">
-    <Name>Hilton Long Beach</Name>
-    <Phones>562-983-3400</Phones>
-    <Address Unit="D">
-      <Number>701</Number>
-      <Street>W Ocean Blvd</Street>
-      <City>Long Beach</City>
-      <State>CA</State>
-      <Zip>90831</Zip>
-      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
-    </Address>
-  </Hotel>
-
   <Hotel>
     <Name>Marriott Long Beach Downtown</Name>
     <Name>Duplicate Name Should Not Appear</Name>
@@ -66,5 +53,17 @@
     </Address>
   </Hotel>
 
-</Hotel>
+  <Hotel Rating="4.2">
+    <Name>Hilton Long Beach</Name>
+    <Phones>562-983-3400</Phones>
+    <Address Unit="D">
+      <Number>701</Number>
+      <Street>W Ocean Blvd</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90831</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
 
+</Hotel>
