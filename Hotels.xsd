@@ -19,12 +19,10 @@
                     <xs:element name="Zip" type="xs:string"/>
                     <xs:element name="NearestAirport" type="xs:string"/>
                   </xs:sequence>
-                  <!-- REQUIRED attribute so we can create an error by omitting it in HotelsErrors.xml -->
                   <xs:attribute name="Unit" type="xs:string" use="required"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
-            <!-- OPTIONAL attribute (shown in assignment JSON as _Rating) -->
             <xs:attribute name="Rating" type="xs:string" use="optional"/>
           </xs:complexType>
         </xs:element>
@@ -33,3 +31,4 @@
   </xs:element>
 
 </xs:schema>
+
