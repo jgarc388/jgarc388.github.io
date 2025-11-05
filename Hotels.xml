@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+<Hotel Rating="4.2">
+  <Name>Westin</Name>
+  <Phone>480-968-8885</Phone>
+  <Phone>800-937-8461</Phone>
+  <Address Unit="K">
+    <Number>11</Number>
+    <Street>E 7th St</Street>
+    <City>Tempe</City>
+    <State>AZ</State>
+    <Zip>85281</Zip>
+    <NearestAirport>Sky Harbor</NearestAirport>
+  </Address>
+</Hotel>
+  
+  <Hotel Rating="4.4">
+    <Name>Hyatt Regency Long Beach</Name>
+    <Phone>562-491-1234</Phone>
+    <Address Unit="A">
+      <Number>200</Number>
+      <Street>S Pine Ave</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Hyatt Centric The Pike Long Beach</Name>
+    <Phone>562-432-1234</Phone>
+    <Address Unit="B">
+      <Number>285</Number>
+      <Street>Bay St</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>The Westin Long Beach</Name>
+    <Phone>562-436-3000</Phone>
+    <Address Unit="C">
+      <Number>333</Number>
+      <Street>E Ocean Blvd</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Hilton Long Beach</Name>
+    <Phone>562-983-3400</Phone>
+    <Address Unit="D">
+      <Number>701</Number>
+      <Street>W Ocean Blvd</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90831</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Marriott Long Beach Downtown</Name>
+    <Phone>562-437-5900</Phone>
+    <Address Unit="E">
+      <Number>111</Number>
+      <Street>E Ocean Blvd</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Residence Inn Long Beach Downtown</Name>
+    <Phone>562-495-0700</Phone>
+    <Address Unit="F">
+      <Number>600</Number>
+      <Street>Queensway Dr</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Courtyard by Marriott Long Beach Downtown</Name>
+    <Phone>562-435-8511</Phone>
+    <Address Unit="G">
+      <Number>500</Number>
+      <Street>E First St</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Royal</Name>
+    <Phone>562-685-9315</Phone>
+    <Address Unit="H">
+      <Number>431</Number>
+      <Street>E Broadway</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Mai Downtown Long Beach</Name>
+    <Phone>562-337-8770</Phone>
+    <Address Unit="I">
+      <Number>107</Number>
+      <Street>Long Beach Blvd</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hotel Maya</Name>
+    <Phone>562-435-7676</Phone>
+    <Address Unit="J">
+      <Number>700</Number>
+      <Street>Queensway Dr</Street>
+      <City>Long Beach</City>
+      <State>CA</State>
+      <Zip>90802</Zip>
+      <NearestAirport>Long Beach Airport (LGB)</NearestAirport>
+    </Address>
+  </Hotel>
+</Hotels>
